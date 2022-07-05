@@ -1,6 +1,6 @@
 To run the jupyter notebook file:
 
-create sample.txt file. There is a column : T_obs (min). Just fill that up with number of observation duration. 
+create sample.txt file. There is a column : T_obs (min). Just fill that up with the observation duration. 
 
 
 
